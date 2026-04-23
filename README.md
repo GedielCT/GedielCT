@@ -14,6 +14,10 @@
 
 ###
 
+<img align="left" height="177" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="36" alt="javascript logo"  />
   <img width="12" />
@@ -49,21 +53,9 @@
 
 ###
 
-<img align="left" height="177" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GedielCT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=9&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GedielCT/GedielCT/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GedielCT/GedielCT/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GedielCT/GedielCT/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
