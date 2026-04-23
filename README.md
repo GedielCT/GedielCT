@@ -56,8 +56,8 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=GedielCT&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GedielCT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=GedielCT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=9&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GedielCT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img height="150" src="https://streak-stats.demolab.com?user=GedielCT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=9&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
