@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GedielCT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=9&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gedielct&" alt="gedielct" /></p>
 </div>
 
 ###
