@@ -14,7 +14,7 @@
 
 ###
 <div>
-  <img align="left" height="177" src="https://github.com/GedielCT/GedielCT/blob/main/img.jpeg"/>
+  <img align="left" height="177" src="https://github.com/GedielCT/GedielCT/blob/main/img-2.gif"/>
 
 ###
 
