@@ -60,8 +60,8 @@
 
 <div >
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GedielCT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" alt="languages graph" style="height: 300px"/>
-  <img src="https://streak-stats.demolab.com?user=GedielCT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=9&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" style="height:   300px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GedielCT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" alt="languages graph" style="height: 200px"/>
+  <img src="https://streak-stats.demolab.com?user=GedielCT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=9&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" style="height:   200px"/>
 </div>
 
 ###
