@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GedielCT.GedielCT&" style="height: 30px"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GedielCT.GedielCT&" style="height: 25px"/>
 </div>
 
 ###
